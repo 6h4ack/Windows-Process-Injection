@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\bin\x64\Release\net8.0\Windows_Process_Injection.exe
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\bin\x64\Release\net8.0\Windows_Process_Injection.deps.json
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\bin\x64\Release\net8.0\Windows_Process_Injection.runtimeconfig.json
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\bin\x64\Release\net8.0\Windows_Process_Injection.dll
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\bin\x64\Release\net8.0\Windows_Process_Injection.pdb
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\obj\x64\Release\net8.0\Windows_Process_Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\obj\x64\Release\net8.0\Windows_Process_Injection.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\obj\x64\Release\net8.0\Windows_Process_Injection.AssemblyInfo.cs
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\obj\x64\Release\net8.0\Windows_Process_Injection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\obj\x64\Release\net8.0\Windows_Process_Injection.dll
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\obj\x64\Release\net8.0\refint\Windows_Process_Injection.dll
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\obj\x64\Release\net8.0\Windows_Process_Injection.pdb
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\obj\x64\Release\net8.0\Windows_Process_Injection.genruntimeconfig.cache
+C:\Users\User\source\repos\Windows_Process_Injection\Windows_Process_Injection\obj\x64\Release\net8.0\ref\Windows_Process_Injection.dll
